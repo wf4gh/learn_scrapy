@@ -93,4 +93,13 @@ for linkedin_url in linkedin_urls:
         linkedin_url.encode('utf-8')
     ])
 
+    # try:
+    #     driver.find_element_by_xpath('//span[text()="Connect"]').click()
+    #     sleep(3)
+    #     driver.find_element_by_xpath(
+    #         '//*[@class="button-primary-large ml3"]').click()
+    #     sleep(3)
+    # except:
+    #     pass
+
 driver.quit()
