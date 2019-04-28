@@ -3,4 +3,3 @@ file_name = 'result_file.csv'
 
 linkedin_username = ''
 linkedin_password = ''
-
